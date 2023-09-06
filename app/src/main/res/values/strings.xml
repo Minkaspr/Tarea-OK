@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea OK!</string>
+    <string name="titulo_1er">Tareas</string>
+    <string name="titulo_2do">Ok!</string>
+
+    <string name="tvSpinner">Seleccionar Perfil</string>
+    <string name="btn_Ingresar">Ingresar</string>
+    <string name="tvO">O</string>
+    <string name="btn_Crear_Perfil">Crear Perfil</string>
+
+    <string name="iv_Descrip_ic_arrow_right">icono de flecha - derecha</string>
+    <string name="iv_Descrip_ic_task_list_solid">icono del logo solido</string>
+</resources>
